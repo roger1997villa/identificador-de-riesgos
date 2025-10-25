@@ -80,3 +80,11 @@ Sistema de Análisis de Riesgo EPS/IPS
 ├── Session State Management
 ├── Cache de Resultados
 └── Persistencia de Filtros
+
+# 🧠 Sistema de Análisis de Riesgo EPS/IPS
+
+### 🚀 Versión Interactiva del Dashboard  
+[👉 Haz clic aquí para abrir la aplicación en Streamlit](https://identificador-de-riesgos-wb5d4rxq478vspwwdkfvzy.streamlit.app/)
+
+---
+
